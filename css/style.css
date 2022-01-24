@@ -96,8 +96,9 @@ ion-icon {
     margin-bottom: 60px;
 }
 .sidebar{
-    width: 293px;
-    height: auto;
+    position: fixed;
+    width: 300px;
+    align-self: flex-end;
     background-color: red;
 }
 
